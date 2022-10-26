@@ -119,3 +119,22 @@ code {
 .btn {
   border-radius: 40px !important;
 }
+
+.socialMedias {
+  position: fixed;
+  right: 5%;
+  top: 30%;
+  z-index: 1000;
+}
+
+.socialMedias a {
+  color: #000;
+  text-decoration: none !important;
+}
+
+.socialMedias i {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  color: #000;
+}
